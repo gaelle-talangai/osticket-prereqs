@@ -89,19 +89,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-<h3> Install PHP </h3
-<p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
-</p>
-<p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL2.png?raw=true"/>
-</p>
-<p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL3.png?raw=true"/>
-</p>
-<p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL4.png?raw=true"/>
-</p>
 <br />
 
 
