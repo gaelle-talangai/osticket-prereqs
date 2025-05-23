@@ -66,6 +66,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP6.png"/>
 </p>
 
+<br />
+
+<h3> Register PHP from Within IIS</h3>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP7.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP8.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP9.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP10.png"/>
+</p>
 
 
 <h3> Install MySQL </h3
