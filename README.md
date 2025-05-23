@@ -88,18 +88,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<h3> Assign Permissions & Install osTicket</h3
+<h3> Install osTicket & Assign Permissions </h3
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost1.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL2.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost2.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL3.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost3.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL4.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost4.png"/>
+</p>  
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost5.png"/>
+</p>  
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost6.png"/>
 </p>  
 
 <br />
