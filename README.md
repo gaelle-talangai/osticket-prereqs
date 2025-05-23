@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/IIS2.png?raw=true"/>
 </p>
 
-<p> Under "Internet Information Services", click on "World Wide Web Services". Inside "World Wide Web Services", click on "Application Development Features" and select "CGI"
+<p> Under "Internet Information Services", click on "World Wide Web Services". Inside "World Wide Web Services", click on "Application Development Features" and select "CGI" </p>
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/IIS3.png?raw=true"/>
 </p>
@@ -60,6 +60,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <h3> Register PHP from Within IIS</h3>
+
+<p> After opening IIS as an admin, we can register PHP </p>
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP7.png"/>
 </p>
