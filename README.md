@@ -21,14 +21,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Install / Enable IIS in Windows with CGI
-- Install Web Platform Installer
-- Install MySql
-- Install C++ redistributable
+- Install PHP Manager for IIS
+- Install MySql 5.5.62
+- Register PHP from Within IIS
 - Configure permissions & install osTicket
 
 <h2>Installation Steps</h2>
 
-<h3> Enable IIS </h3>
+<h3> Install / Enable IIS in Windows with CGI </h3>
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/IIS1.png?raw=true"/>
 </p>
@@ -51,6 +51,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+<h3> Install PHP Manager for IIS</h3>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+</p>
+
+
 
 <h3> Install MySQL </h3
 <p>
