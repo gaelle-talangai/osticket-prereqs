@@ -121,16 +121,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST9.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost11.png"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST11.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost12.png"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST12.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost13.png"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST13.png"/>
 </p>  
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost14.png"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST14.png"/>
 </p>  
 
 
