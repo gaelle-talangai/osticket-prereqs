@@ -88,7 +88,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<h3> Install osTicket & Assign Permissions </h3
+<h3> Install osTicket </h3>
+
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost1.png"/>
 </p>
@@ -109,6 +110,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>  
 
 <br />
+
+<h3> Assign Permissions for osTicket </h3>
+
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost9.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost11.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost12.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost13.png"/>
+</p>  
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost14.png"/>
+</p>  
+
 
 
 
