@@ -54,13 +54,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h3> Install PHP Manager for IIS</h3>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP3.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP4.png"/>
 </p>
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP5.png"/>
+</p>
+<p>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/PHP6.png"/>
 </p>
 
 
