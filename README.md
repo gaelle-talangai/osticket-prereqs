@@ -35,6 +35,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/IIS2.png?raw=true"/>
 </p>
+
+<p> Under "Internet Information Services", click on "Web Management Tools" and "World Wide Web Services"
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/IIS3.png?raw=true"/>
 </p>
