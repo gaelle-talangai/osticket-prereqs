@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install PHP Manager for IIS
 - Install MySql 5.5.62
 - Register PHP from Within IIS
-- Configure permissions & install osTicket
+- Install osTicket & Configure Permissions
 
 <h2>Installation Steps</h2>
 
