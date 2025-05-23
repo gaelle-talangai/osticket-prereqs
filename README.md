@@ -118,7 +118,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3> Assign Permissions for osTicket </h3>
 
 <p>
-<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost9.png"/>
+<img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/OST9.png"/>
 </p>
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/Ost11.png"/>
