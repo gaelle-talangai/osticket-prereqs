@@ -91,7 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-<h3> Install C++ Redistributable </h3
+<h3> Install PHP </h3
 <p>
 <img src="https://github.com/gaelle-talangai/osticket-prereqs/blob/main/mySQL1.png?raw=true"/>
 </p>
